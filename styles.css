@@ -60,13 +60,13 @@ h5 {
 .cflex-container {
     display: flex;
     flex-direction: column;
-    /* max-width: 800px; */
+    max-width: 650px;
     /* max-height: 300px; */
     /* background-color:cadetblue; */
     justify-content: flex-start;
 }
 
-/* .cflex-container div {
+/* .card div {
     border: 1px solid yellow;
 } */
 .cd-flex {
@@ -128,4 +128,8 @@ h5 {
 }
 .cflex-sb {
     justify-content: space-between;
+}
+
+.bg-dark {
+    background-color: black !important ;
 }
