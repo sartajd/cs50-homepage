@@ -66,9 +66,9 @@ h5 {
     justify-content: flex-start;
 }
 
-.cflex-container div {
+/* .cflex-container div {
     border: 1px solid yellow;
-}
+} */
 .cd-flex {
     display: flex;
 }
