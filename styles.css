@@ -1,6 +1,8 @@
 body {
-    font-family: 'Lateef', cursive;
+    font-family: 'Lateef', sans-serif;
     text-align: right;
+    background-color: #f4f4f4;
+
 }
 .scroll {
     max-height: 70vh;
@@ -131,5 +133,11 @@ h5 {
 }
 
 .bg-dark {
-    background-color: black !important ;
+    background-color: rgba(0, 0, 0, 0.9) !important ;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
 }
